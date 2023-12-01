@@ -18,3 +18,6 @@ Deployments can be on any web server on even local file system
 
 ## How To Contribute
 
+### Copyright
+2023 Git.Training
+
